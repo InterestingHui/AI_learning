@@ -23,3 +23,9 @@ sub agent 和 Agent Team
 ```
 
 - 用Clawdbot这玩意生成每日多个特定领域的文献早报，图文并茂的，在指定文件夹保存成markdown并且归类，还有股票相关新闻就是很好的一个用例啊，你自己找不到应用场景不代表这东西没用。
+
+## 规划
+- 尽快将AIServerless接入Agent（Claude Code）里面，让Agent识别这个代码仓，并解决相应的问题，解放生产力
+- 等AIServerless开始装备上Agent了，开始着手投入AI炒股的项目，并开始落地
+- 期间学习MCP、Skill等内容
+- 等AI炒股的项目开始有些内容了，联系高老板、ACM群及乐爷的同学，了解一下现在量化或者说AI炒股的市场空间
